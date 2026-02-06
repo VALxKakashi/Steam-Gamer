@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url('../photo.png');
+  background-image: url('../photo2.png');
   background-size: cover;          /* make image cover entire background */
   background-position: center;     /* nicely center the image */
   background-repeat: no-repeat;
@@ -91,5 +91,5 @@ a {
 
 }
 * {
-  color: black;
+  color: white;
 }
