@@ -2,8 +2,8 @@ body {
   margin: 0;
   padding: 0;
   background-image: url('../photo.png');
-  background-size: 90%;
-  background-position: 70% center;
+  background-size: 80%;
+  background-position: 70% left;
   background-repeat: no-repeat;
   font-size: 14px;
   font-family: sans-serif;
