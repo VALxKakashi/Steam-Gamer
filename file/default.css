@@ -92,3 +92,6 @@ a {
 * {
   color: lightred;
 }
+* {
+  font-weight: bold;
+}
