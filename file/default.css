@@ -6,7 +6,7 @@ body {
   background-position: center;     /* nicely center the image */
   background-repeat: no-repeat;
   font-size: 17px;
-  font-weight: 950;
+  font-weight: 1000;
   font-family: sans-serif;
   color: red;                    /* default text color to black */
   overflow: auto;
@@ -91,5 +91,5 @@ a {
 
 }
 * {
-  color: darkred;
+  color: black;
 }
