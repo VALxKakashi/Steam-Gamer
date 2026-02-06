@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background-image: url('../photo.png');
-  background-size: cover;
+  background-size: 50%;
   background-repeat: no-repeat;
   font-size: 14px;
   font-family: sans-serif;
@@ -10,11 +10,11 @@ body {
   overflow: auto;
 }
 a {
-  color: white;
+  color: black;
   font-size: 14px;
 }
 #main {
-  width: 100%;
+  width: 80%;
 }
 #wrap {
   position: relative;
