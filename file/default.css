@@ -89,3 +89,6 @@ a {
   font-family: monospace;
 
 }
+* {
+  color: red;
+}
